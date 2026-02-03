@@ -1,1 +1,1 @@
-# React + Vite installed
+# React & Vite installed
