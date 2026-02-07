@@ -1,1 +1,1 @@
-# React & Vite project
+# Vite project
