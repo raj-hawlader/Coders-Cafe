@@ -1,1 +1,1 @@
-## Vite project
+# Vite project
